@@ -1,0 +1,24 @@
+しゅくだい　4:
+1) Escreva em kanji os seguintes números:
+-35
+三十伍
+-176
+百七十六
+-984
+九百八十四
+-1108
+一千百八
+-10.523
+一万五百二十三
+
+2)Traduza os seguintes kanji para números:
+-五十七
+57
+-六百十
+610
+-三千六百
+3600
+-五千九百九十四
+5994
+-九万八千六十一
+98061
