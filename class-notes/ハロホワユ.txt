@@ -1,0 +1,46 @@
+ハロ　Hello
+「窓」　まど　Janela
+ハワユ　How are you?
+「部屋」　へや　Sala/Quarto
+モーニン　Morning
+「朝」　あさ　Manhã
+テイクタク　Tick-tock
+「私」　わたし Eu (neutro)
+「誰」　だれ Quem?
+
+ハロ！　Hello!
+アニメ　Anime
+ハワユ　How are you?
+「皆」　みんあ Everyone
+スリーピン　Sleeping
+クライン　Crying
+
+まいっか Ah, bom...
+
+「昨日」　きのう　Ontém
+「言葉」　ことば Palavra
+「君」　きみ Você
+
+「口」　くち Boca
+「今日」 きょう　Hoje
+「生きて」　いきて　Persistir
+
+「本当」　ほんとう Verdade
+「名」　なの Nome (?)
+「海」　うみ Mar/Oceano/Praia 
+
+「頭」　あたま　Cabeça
+「生活」　せいかつ　Viver
+「その手」　そのて　Essa mão
+「気」　き Atmosfera/Sentimento
+「人生」　じんせい Vida
+タイムカード　Time-card
+
+サンキュー　Thank you
+
+-- NOVOS --
+「部屋」　へや　Sala/Quarto
+「本当」　ほんとう Verdade
+「頭」　あたま　Cabeça
+「人生」　じんせい Vida
+タイムカード　Time-card

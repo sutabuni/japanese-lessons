@@ -5,7 +5,9 @@
 いっぱい:Full/Big amount
 そーだろー:That's right
 あるぞー:There is (?)
-ひと:People
+人:People
 いる:To be (?)
 学校:School
 夏休み:Summer Vacation
+君: Você
+本当: Verdade
