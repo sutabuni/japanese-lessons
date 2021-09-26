@@ -1,0 +1,45 @@
+Sim
+はい・うん
+Não
+いいえ・ううん
+
+Vocabulário
+これ　(Isto/Com o objeto na mão)
+それ (Isso/Objeto na mão da pessoa)
+あれ　(Aquilo)
+
+この　(Este)
+その (Esse)
+あの (Aquele)
+
+よ (No final da frase é um exclamação [!])
+
+本　(Livro)
+木　(Arvore)
+誰　だれ (Quem)
+何 なに (O que)
+元気 げんき (Energia positiva)
+田　た／だ (Depende se está no começo ou final da palavra)
+日　(Sol)
+Também serve como ”よう” (Dia)
+月　(Lua)
+Também serve como ”げつ” (Mês)
+今 いま　(Agora)
+今日　きょう (Hoje)
+昨日　(Ontém)
+明 (Luz)
+明日 あした (Amanhã)
+生きる (Viver)
+先生 (Professor)
+
+（
+いただきます
+ごちそうさまでした
+）
+
+（
+いてきます
+いてらさひ
+ただいま
+おかえり
+）

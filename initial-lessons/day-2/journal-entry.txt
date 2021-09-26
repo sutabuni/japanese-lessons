@@ -1,0 +1,22 @@
+// DAY 2
+Today I've learned about the IPA and consonants. I've learned about all the types of articulation which is how you make the sound, and the manners of articulation which is how you block the airflow or how you use the airflow to make a sound. Also voiced sounds, which means if a sound is made using the vocal chords or not.
+
+Voiced sounds are also kind of complicated, since there are like 3 other things to think about, for example, Voice Onset Time. So like, basically the "when" of you starting to voice something. There are 3 basic types from what I understand, not sure if there are more, but 0, which means voicing happens as soon as you make the sound (plosive release), -1 which means voicing happens before you make the plosive release, and +1 which means voicing happens a bit after you make the plosive release.
+
+Then there's like breathiness, and vocal fry, which are also related to that a bit because it relates to air flow.
+
+When you're whispering, you can also tell what soudns are what, like p vs b. That's because some sounds are made with a stronger plosive release (p sounds) or weaker plosive releases (b sound).
+
+There's also the way you note down the sounds. It's basically made by the order of voicing > place of articulation > manner of articulation. Pretty easy to understand if you just follow the IPA.
+
+- Aside from that, I also learned about pitch accent. There are four in japanese, and they work as follows:
+- Atamadaka: Starts high for the first syllable then goes low for all next syllables.
+- Nakadaka: Starts low, goes high for the second sillable then low again for all following syllables.
+- Odaka: Starts low for first syllable and goes high for all remaining syllables, except for the particle at the end (example: ga, wa, etc)
+- Heiban: Starts low for first syllable and goes high for all remaining syllables and stays high.
+
+However, this varies depending on... um... conjugation. I'm not fully understanding on that concept, but it basically relates to verbs it seems, and it also seems to only have two variations? **I'll have to look onto that in the future.**
+
+It also seems to exist on sentence levels, and sentence-ending particles. Intonation also changes depending on emotions, but maybe not pitch? Not sure, again, I'll have to study these complex things once I learn more about japanese I think so **here's a marker for studying this later**.
+
+**There is also vowels left to learn on the IPA. I will do that tomorrow.**

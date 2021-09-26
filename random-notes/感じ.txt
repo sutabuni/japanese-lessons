@@ -1,0 +1,25 @@
+窓 (Janela)　「まど」
+口 (Boca)　「くち」
+名　(Nome)　「な」
+海 (Mar/Oceano)　「うみ」
+本　(Livro)　「ほん」
+木　(Arvore)　「き」
+誰 (Quem)　「だれ」
+何 (O que)　「なに」
+元気 (Energia positiva)　「げんき」
+田 (Rice Field)　「た／だ」 (Depende se está no começo ou final da palavra)
+日　(Sol)　「にち」
+Também serve como ”よう” (Dia)
+月　(Lua)　「つき」
+Também serve como ”げつ” (Mês)
+今　(Agora)　「いま」
+今日 (Hoje)　「きょう」
+昨日　(Ontém)　「きのう」
+明 (Luz)　「めい」
+明日 (Amanhã)　「あした」
+生きる　(Persistir)　「いきる」
+先生 (Professor)　「せんせい」
+朝 (Manhã)　「あさ」
+私 (Pronome eu neutro)　「わたし」
+気 (Atmosfera)　「き」
+言葉 (Palavras)　「ことば」
