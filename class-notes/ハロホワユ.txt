@@ -1,42 +1,45 @@
-ハロ　Hello
+音楽
+「ハロ」　Hello!
 「窓」　まど　Janela
-ハワユ　How are you?
+「ハワユ？」　How are you?
 「部屋」　へや　Sala/Quarto
-モーニン　Morning
+「モーニン」 Morning
 「朝」　あさ　Manhã
-テイクタク　Tick-tock
+「テイクタク」　Tick-tock
 「私」　わたし Eu (neutro)
 「誰」　だれ Quem?
 
-ハロ！　Hello!
-アニメ　Anime
-ハワユ　How are you?
-「皆」　みんあ Everyone
-スリーピン　Sleeping
-クライン　Crying
+「アニメ」　Anime
+「皆」　みんあ　Todo mundo
+「スリーピン」 Sleeping　
+「クライン」　Crying
 
-まいっか Ah, bom...
+「まあいっか」　Ah, bem...
 
 「昨日」　きのう　Ontém
-「言葉」　ことば Palavra
-「君」　きみ Você
+「言葉」　ことば　Palavra
+「君」　きみ　Você
 
+「本当」　ほんとう　Verdade
 「口」　くち Boca
 「今日」 きょう　Hoje
 「生きて」　いきて　Persistir
 
 「本当」　ほんとう Verdade
-「名」　なの Nome (?)
-「海」　うみ Mar/Oceano/Praia 
+「名の」　なの　Nome?
+「海」　うみ　Oceano/Mar/Praia
 
 「頭」　あたま　Cabeça
-「生活」　せいかつ　Viver
+「生きて」　いきて　Persistir
+「何」　なに　O que
+「気」　き　Atmosfera/Sentimento
 「その手」　そのて　Essa mão
-「気」　き Atmosfera/Sentimento
 「人生」　じんせい Vida
 タイムカード　Time-card
 
 サンキュー　Thank you
+
+「生き」　いき　Viver
 
 -- NOVOS --
 「部屋」　へや　Sala/Quarto
