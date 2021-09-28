@@ -1,13 +1,52 @@
-ここ:Here
-すげえー:Amazing
-お店（おみせ）:Store
-家:House
-いっぱい:Full/Big amount
-そーだろー:That's right
-あるぞー:There is (?)
-人:People
-いる:To be (?)
-学校:School
-夏休み:Summer Vacation
-君: Você
-本当: Verdade
+ここ　Here
+すげえー　Amazing
+「お店」　おみせ　Store
+「家」　いえ　House
+いっぱい　Full/Big amount
+そーだろー　That's right
+あるぞーThere is (?)
+「人」　うと　People
+「学校」　がっこう　School
+「夏休み」　なつやすみ　Summer Vacation
+「本当」　ほんとう Verdade
+なんか De alguma maneira/Alguma coisa (?)
+「俺」 おれ　Eu (masculino)
+「体力」 たいりょく　Força física
+「低下」 ていか　Caindo/abaixando/piorando
+ふるえる Tremer
+「君」　きみ Você
+おまえ Você
+「近所」　きんじょ Vizinho
+「配る」　くばる　Dividir/Distribuir
+「粗品」　そしな　Presente
+「用意」　ようい Preparação
+そうか I see
+いい Bom (verbo)
+「変」　へん Estranho
+「思考」 しこう Pensar
+「しなきゃな」 Fazer 
+「じゃあ」 Bom, (...)
+「片付けるづ」　かたづけるず Limpar/Organizar
+「持つ」 もつ Trazer
+そんあ Tipo/como
+「好きな」 Amar/Gostar bastante
+「嗜好」 しこう　Gosto
+ところで Falando nisso
+いなくなった Saiu/foi embora
+まあ Bom, (...)
+「腹へった」　はらへったら Fome
+「帰ってくる」　かえってくる Voltar
+「みつけたら」　みつけたら Encontrar
+きろっとくわ Pegar
+そうしてくわ Por favor faça/Agradeço se fizer isso
+んたのむ　Estou contando com você
+さて Agora.../Enfim...
+もしかして Por acaso
+こちらに　Aqui/essa direção
+「ひっこす」 Mudar de casa
+けど Mas
+やっぱり Eu sabia!
+「住む」 Viver (em uma residencia)
+「綾瀬」 あやせ
+「よろしくお願いします」　よろしくおねがいします Prazer em te conhecer!
+こちらこそ Eu que digo/no contexto seria "o prazer é meu!"
