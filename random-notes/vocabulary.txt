@@ -1,52 +1,57 @@
-ここ　Here
-すげえー　Amazing
-「お店」　おみせ　Store
-「家」　いえ　House
+ここ　Aqui
+すげえ (すごい)　Incrivel
+「お店」　おみせ　Loja
+「家」　いえ　Casa
 いっぱい　Full/Big amount
-そーだろー　That's right
-あるぞーThere is (?)
+そーだろー　That's right　(as vezes aperta escrito com う no final em vez de ー)
+あるぞー　There is (?)
 「人」　うと　People
 「学校」　がっこう　School
-「夏休み」　なつやすみ　Summer Vacation
+「夏休み」　なつやすみ　Summer Vacation [夏 = Verão] [休み = Descanso]
 「本当」　ほんとう Verdade
 なんか De alguma maneira/Alguma coisa (?)
-「俺」 おれ　Eu (masculino)
-「体力」 たいりょく　Força física
+「俺」 おれ　Eu (masculino) (mais informal)
+「体力」 たいりょく　Força física [体 = Corpo] [力 = Força]
 「低下」 ていか　Caindo/abaixando/piorando
 ふるえる Tremer
-「君」　きみ Você
-おまえ Você
-「近所」　きんじょ Vizinho
+「君」　きみ Você (Formal)　[君 = Kun]
+おまえ Você (Rude, sentido pejorativo)
+「近所」　きんじょ Vizinhança
 「配る」　くばる　Dividir/Distribuir
-「粗品」　そしな　Presente
+「粗品」　そしな　Presente [おみやげ = Lembrancinha, também serve]
 「用意」　ようい Preparação
-そうか I see
-いい Bom (verbo)
+そうか Entendi
+いい Bom (adjetivo) [良い também serve]
 「変」　へん Estranho
-「思考」 しこう Pensar
-「しなきゃな」 Fazer 
+「思考」 しこう Pensar (os dois kanjis significam pensar)
+「しなきゃな」 Eu absolutamente preciso fazer isso (し é o do する)
 「じゃあ」 Bom, (...)
-「片付けるづ」　かたづけるず Limpar/Organizar
+まあ Bom, (...)
+「片付ける」　かたづける Limpar/Organizar
 「持つ」 もつ Trazer
-そんあ Tipo/como
-「好きな」 Amar/Gostar bastante
+そんな Tipo/como
+「好き」 Gostar
 「嗜好」 しこう　Gosto
 ところで Falando nisso
-いなくなった Saiu/foi embora
-まあ Bom, (...)
-「腹へった」　はらへったら Fome
+いなくなった Sumiu
+「腹へった」　はらへった Fome
 「帰ってくる」　かえってくる Voltar
-「みつけたら」　みつけたら Encontrar
-きろっとくわ Pegar
-そうしてくわ Por favor faça/Agradeço se fizer isso
-んたのむ　Estou contando com você
+「見つけた」　みつけた Encontrar
+そうしてくれ Por favor faça/Agradeço se fizer isso
+たのむ　Estou contando com você
 さて Agora.../Enfim...
 もしかして Por acaso
-こちらに　Aqui/essa direção
-「ひっこす」 Mudar de casa
-けど Mas
+こちら(に)　Por aqui/essa direção
+「ひっこす」 Se mudar (de casa)
+けど Mas (varias maneiras diferentes de se falar)
 やっぱり Eu sabia!
-「住む」 Viver (em uma residencia)
-「綾瀬」 あやせ
+「住む」 Morar
 「よろしくお願いします」　よろしくおねがいします Prazer em te conhecer!
-こちらこそ Eu que digo/no contexto seria "o prazer é meu!"
+こちらこそ Igualmente
+やられた　Você me pegou!
+おはなししよ Você quer conversar?
+「資源」　しげん Lixo Reciclado
+「金曜」 きにょう　Sexta-feira
+「日」　ひ Dia
+あそこ Ali
+「電流」 でんりゅう Corrente Elétrica
