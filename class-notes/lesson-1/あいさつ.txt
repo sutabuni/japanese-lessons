@@ -1,6 +1,6 @@
 あいさつ
 おはようございますーBom Dia
-こんいちはーBoa tarde
+こんにちわーBoa tarde
 Ha no final ou como particula geralmente vira わ
 こんばわーBoa noite
 おやすみなさいーBoa noite (para dormir)
@@ -16,4 +16,4 @@ Quando tem o no comeco e como se fosse mais educado
 ごめんなさいーDesculpa
 だいじょうぶーTudo bem
 おねがいしますーEstou fazendo um pedido para voce
-おつかれしましたーObrigado pelo seu esforco
+おつかれさまでしたーObrigado pelo seu esforco
