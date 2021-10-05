@@ -61,3 +61,11 @@
 うっまえ Irrirante (?)
 「死ね」　しね Morrer
 ありそう Provavelmente
+「公園」　こうえん　Parque
+「駅」 えき Estação de Trem´
+「英語」　えいご Inglês (Lingua)
+「配信」　はいしん　Distribuição/Stream
+「放送」 ほうそう Stream
+「誕」　たん　Nascimento
+「僕」　ぼく Eu (masculino)
+「授業」　じゅぎょう　Classe/Lição

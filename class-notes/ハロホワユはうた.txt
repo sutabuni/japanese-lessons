@@ -25,11 +25,17 @@
 「今日」 きょう　Hoje
 「生きて」　いきて　Persistir
 
-「本当」　ほんとう Verdade
-「名の」　なの　Nome?
+「名」　な　Nome
 「海」　うみ　Oceano/Mar/Praia
+「本当」　ほんとう Verdade
+「声」　こえ Voz
 
 「頭」　あたま　Cabeça
+「朝日」 あさひ Sol de manhã
+「理由」　りゆう Razão
+「休」 やす Dormir
+「分」　ふん　Minuto
+
 「生きて」　いきて　Persistir
 「何」　なに　O que
 「気」　き　Atmosfera/Sentimento
@@ -38,12 +44,17 @@
 タイムカード　Time-card
 
 サンキュー　Thank you
+「心」　こころ　Coração
 
 「生き」　いき　Viver
 
+「人間」　にんげん　Humano
+
 -- NOVOS --
-「部屋」　へや　Sala/Quarto
-「本当」　ほんとう Verdade
-「頭」　あたま　Cabeça
-「人生」　じんせい Vida
-タイムカード　Time-card
+「声」 こえ Voz
+「理由」　りゆう Motivo, Razão
+「休」 やすむ Dormir
+「分」　ふん　Parte
+「朝日」 あさひ Sol de manhã
+「心」　こころ Coração
+「人間」　にんげん　Humano
