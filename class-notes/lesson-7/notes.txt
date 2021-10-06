@@ -2,6 +2,7 @@
 
 円　いぇん
 (número)~円　えん
+いくら (ですか)　= Perguntar o preço (quanto custa)
 
 Yen > Real é tirar um 0 e dividir por 2 que você acha o real.
 
@@ -38,4 +39,3 @@ Notando como o Tenten muda dependendo de qual kanji está terminando a palavra.
 「月末」　げつまつ = Fim de mês
 末　まつ = Final?
 週日 しゅうじつ　= Dia de semana
-
