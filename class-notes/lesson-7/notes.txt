@@ -16,10 +16,10 @@ Yen > Real é tirar um 0 e dividir por 2 que você acha o real.
 いつも = Sempre* (excessão)
 さい + (número) = Idade
 さい tem excessão de pronúncia com 1 e 8 (mesma coisa de 千), e 20 que fica 「はたち」
-なんさいですか é a pergunta.
+何さいですか é a pergunta.
 私は_さいです。 é a resposta.
 
-「曜日」 にち = Dia de Semana
+「曜日」 ようび = Dia de Semana
 「火」 ひ ・ び (no final) ・ か (junto com outros kanjis)　= Fogo
 Geralmente Kanji ganha o tenten no final de frases.
 「花」 はな = Flor
