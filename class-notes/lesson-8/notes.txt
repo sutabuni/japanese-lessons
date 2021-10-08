@@ -1,0 +1,54 @@
+動詞　どうし
+（Verbos)
+
+ごだん
+Maioria dos verbos vão ser esses.
+100% dos verbos terminam com o som de う (não necessariamente ele solto).
+
+いちだん
+Terminam em いる ou える.
+Quando esse final está fora de kanji é 100% um いちだん.
+
+Irregulares
+する Fazer
+くる Vir
+
+Excessões:
+(Praticar elas bastante)
+いる
+入る
+走る
+
+Conjulgar
+Presente | Passado
+ます　　　　 |  ました        < Positivo
+ません      　ませんでした    < Negativo
+
+ごだん: う　->　い　＋　(ます)*
+
+する -> し (ます)*
+来る -> 来 (ます)*
+
+Particulas complementares:
+へ （pronuncia え） = Deslocamento
+ex: (local) へ (verbo)
+
+と = União (quando você faz algo <com> alguém)
+
+を (pronuncia お) = Objeto da oração (o contrário do sujeito?)
+ex: Eu li <o> livro - 私は本をおみます
+
+に = Especifica algo (ideia de "para")
+* Também serve para falar um horário especifico, sempre usa o に (depois da hora)
+ex: (hora) に (verbo).
+
+- Verbos aparecem no final da frase
+
+いる / ある
+Significa "existir"
+いる い (ます): Seres vivos
+ある　あり (ます): Objetos
+
+- pedir para ele mandar 25 kanjis ou algo assim para memorizar toda terça ou quinta
+- perguntar se vale a pena memorizar verbos no vocabulário mais do que outros tipos de palavras
+- falar se ele quiser passar mais radicais para eu memorizar
