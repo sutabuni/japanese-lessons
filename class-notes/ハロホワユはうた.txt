@@ -1,60 +1,61 @@
 音楽
 「ハロ」　Hello!
 「窓」　まど　Janela
+「開」 あけ（る） Verbo para "abrir"
+「呟」　呟いた Verbo para "murmurar"
 「ハワユ？」　How are you?
 「部屋」　へや　Sala/Quarto
 「モーニン」 Morning
+来 き（る）　Verbo para "vir"
 「朝」　あさ　Manhã
 「テイクタク」　Tick-tock
 「私」　わたし Eu (neutro)
 「誰」　だれ Quem?
-
 「アニメ」　Anime
 「皆」　みんあ　Todo mundo
 「スリーピン」 Sleeping　
 「クライン」　Crying
-
 「まあいっか」　Ah, bem...
-
 「昨日」　きのう　Ontém
 「言葉」　ことば　Palavra
+「頭」　あたま Cabeça
+を Particula (indicar objeto)
+「過る」 よぎる Verbo "para passar"
 「君」　きみ　Você
-
 「本当」　ほんとう　Verdade
 「口」　くち Boca
 「今日」 きょう　Hoje
 「生きて」　いきて　Persistir
-
 「名」　な　Nome
 「海」　うみ　Oceano/Mar/Praia
 「本当」　ほんとう Verdade
 「声」　こえ Voz
-
 「頭」　あたま　Cabeça
 「朝日」 あさひ Sol de manhã
 「理由」　りゆう Razão
 「休」 やす Dormir
 「分」　ふん　Minuto
-
 「生きて」　いきて　Persistir
 「何」　なに　O que
 「気」　き　Atmosfera/Sentimento
 「その手」　そのて　Essa mão
 「人生」　じんせい Vida
 タイムカード　Time-card
-
 サンキュー　Thank you
 「心」　こころ　Coração
-
 「生き」　いき　Viver
-
 「人間」　にんげん　Humano
 
 -- NOVOS --
-「声」 こえ Voz
-「理由」　りゆう Motivo, Razão
-「休」 やすむ Dormir
-「分」　ふん　Parte
-「朝日」 あさひ Sol de manhã
-「心」　こころ Coração
-「人間」　にんげん　Humano
+「来」 く（る）　Verbo para "vir"
+「開」 あけ（る） Verbo para "abrir"
+「呟」　呟いた Verbo para "murmurar"
+「言葉」　ことば Palavras (semi-novo)
+「声」 こえ　Voz
+「笑」　わら　Verbo para "rir"
+「会う」　あう　Verbo para "encontrar"
+「言う」　いう　Verbo para "dizer/falar"
+「分」　わっかてる　Verbo para "entender"
+「聞」　きく Verbo para　"escutar/perguntar"
+「ある」　Verbo para se referir à um objeto que existe "existir"
+「話す」　はなす Verbo para "falar/conversar"

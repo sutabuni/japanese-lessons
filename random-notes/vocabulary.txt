@@ -69,3 +69,33 @@
 「誕」　たん　Nascimento
 「僕」　ぼく Eu (masculino)
 「授業」　じゅぎょう　Classe/Lição
+「会茶」 かいちゃ　Trabalho
+「帰る」　かえる　Verbo "retornar"
+「迎え」 むかえ Não entendi...　(de むかえにきた que acho que significa "buscar"?)
+「来る」　くる Verbo "vir/chegar"
+「そしたら」　Então/ai/depois disso
+「気づく」　きづく　Verbo para "notar/perceber/ver" (tipo "te vi na rua hoje e decidi falar oi!!")
+「鳴らす」　ならす Verbo fazer um som/buzina/etc
+「おく」　おく Verbo para "deixar atras" (?)
+「ちゃう」 Verbo para "fazer" (fazer sem querer?)
+「びびる」 Verbo para "assustar/ficar com medo" (?)
+「戻る」　もどる Verbo para "voltar"
+「消え」　きえる　Verbo para desaparecer
+「大変」 たいへん Terrível/disastre
+「探す」　さがす　Verbo para "procurar"
+「出かける」　でかける Verbo para "sair/ir embora"
+「映画館」　えいがかん Cinema
+「さくぶん」　さくぶん　Composicao/Redacao
+「冷たい」　つめたい　Frio
+「渡す」　わたす　Verbo "dar"
+「耳」　みみ　Ouvido
+「呼ぶ」　よぶ　Chamar
+「立派」　りっぱ　Elegante
+「夕飯」　ゆうはん　Jantar
+「生まれる」　うまれる Nascer
+「余り」　あまり　O que sobrou
+「犬」　いぬ　Cachorro
+浴びる　あびる　Tomar (banho, etc)
+真っ直ぐ　まっすぐ　Reto (para frente, etc)
+かかる　Pegar (gripe etc)
+下　した　Em baixo
