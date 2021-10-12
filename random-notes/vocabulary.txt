@@ -85,7 +85,7 @@
 「探す」　さがす　Verbo para "procurar"
 「出かける」　でかける Verbo para "sair/ir embora"
 「映画館」　えいがかん Cinema
-「さくぶん」　さくぶん　Composicao/Redacao
+「昨弁」　さくぶん　Composicao/Redacao
 「冷たい」　つめたい　Frio
 「渡す」　わたす　Verbo "dar"
 「耳」　みみ　Ouvido
@@ -99,3 +99,4 @@
 真っ直ぐ　まっすぐ　Reto (para frente, etc)
 かかる　Pegar (gripe etc)
 下　した　Em baixo
+料理　りょうり　Cozinhando

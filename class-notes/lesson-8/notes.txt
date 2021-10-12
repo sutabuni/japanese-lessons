@@ -4,20 +4,29 @@
 ごだん
 Maioria dos verbos vão ser esses.
 100% dos verbos terminam com o som de う (não necessariamente ele solto).
+Conjulgar: う vira い + (ます etc)
 
 いちだん
 Terminam em いる ou える.
 Quando esse final está fora de kanji é 100% um いちだん.
+Conjulgar:　る vira (ます etc)
 
 Irregulares
-する Fazer
-くる Vir
+する "Fazer"
+Conjulgar: する　vira し（ます etc）
+
+来る くる "Vir"
+Conjulgar: 来る　vira 来(き) + (ます etc)
 
 Excessões:
 (Praticar elas bastante)
-いる
-入る
-走る
+いる ?
+入る はいる　"Entrar"
+走る　はしる　"Correr"
+帰る　かえる "Voltar" (para casa?)
+喋る　しゃべる　"Conversar"
+
+- Perguntar próxima sessão o que faz as excessões serem excessões e perguntar sobre o いる
 
 Conjulgar
 Presente | Passado
