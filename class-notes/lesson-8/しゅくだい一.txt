@@ -2,7 +2,7 @@ vocabulario/kanji para anotar:
 朝ご飯 = Café da Manhã 
 食べる = Comer
 公園 = Parque
-行きる = Ir
+行く = Ir
 起きる = Acordar
 見る = Assistir/Ver/Olhar?
 
