@@ -41,6 +41,8 @@ Presente | Passado
 Particulas complementares:
 へ （pronuncia え） = Deslocamento
 ex: (local) へ (verbo)
+* Enquanto o に precisa de contexto para o porque de você ir no lugar, esse não precisa, é mais genérico.
+* Também serve de cartas, como um "de mim para você"
 
 と = União (quando você faz algo <com> alguém)
 
@@ -49,7 +51,15 @@ ex: Eu li <o> livro - 私は本をおみます
 
 に = Especifica algo (ideia de "para")
 * Também serve para falar um horário especifico, sempre usa o に (depois da hora)
-ex: (hora) に (verbo).
+ex: (hora) に (verbo). Ideia de "às xx:xx".
+* Também usa para datas especificas.
+* Indica um lugar especifico, ex: na parede, na escola, etc.
+* Indica que você vai para alguma coisa.
+* Indica uma mudança.
+* É usada com a voz passiva.
+* Pode ser usada para o substantivo ação.
+* Sentido de "ir" para algum lugar fazer alguma coisa. ex: "Eu vou para o japão [para] estudar artes."
+* Usa-se para adjetivos.
 
 - Verbos aparecem no final da frase
 
