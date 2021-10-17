@@ -157,46 +157,46 @@
 明日　みょうにち　Amanhã (bem formal)
 務める　つとめる　Servir/ter um trabalho
 道　みち　Rua
+
 -- YOTSUBA (ultima sessão) --
 こちらに　Aqui/dessa direção
-どころで　Falando nisso (?)
-そうだ　Isso mesmo (?)
+ところで　Falando nisso
+そうだ　Isso mesmo
 お子さん　Criança (formal)
 かな　"I wonder"
 やる　Para fazer
-おして Puxa (?)　
-あのね　Deixa eu te falar... (?)
+押す　（おす）　Empurrar
+あのね　Deixa eu te falar...
 途中　とちゅう No caminho
 変　へん Estranha
 あじさい Hyndrangea (um tipo de flor)
-いた Dor?
-奴　やつ Não entendi mas eu assumo que é algo tipo "pessoa" em forma depreciativa
-セミ Cicada??
+いた Um "Ai!" que a gente grita quando sente dor, o substantivo de dor
+奴　やつ É como se fosse um "cara" no sentido de pessoa
+セミ Cigarra
 やっぱり　After all
 夏　なつ Verão
 だよね　Não é?
-知る　Verbo "saber"
+知る　Saber
 迎えに来る むかえにくる Buscar alguém
 一緒に　いっしょうに Juntos
 何年生　なんねんせい What grade (in school)​
 好き すき Gostar/amar
 いいか Escuta
-知る　しる　Saber
 ついて行く　Seguir
 着く　つく Chegar
 だめ　Não pode
 あげる　Dar
 もの　Coisa
-良い・いい（？） Boa
+良い いい Boa
 呼ぶ Chamar
 言う　Falar
 悪い　わるい　Ruim
-幼児　ようじ　Coisas para fazer
+用事　ようじ　Coisas para fazer
 思い出す　おもいだす Lembrar
 あっち Naquela direção
 どうした　O que foi/Qual o problema?
 たすける　Ajudar
-何で なんで Por nada/nada (?)
+何でもありません Não é nada!
 捕まえる　つかまえる Pegar
 遣っ付ける　やっつける Atacar
 引っ越す ひっこす Mudar de casa
