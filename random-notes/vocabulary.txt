@@ -157,6 +157,7 @@
 明日　みょうにち　Amanhã (bem formal)
 務める　つとめる　Servir/ter um trabalho
 道　みち　Rua
+-- YOTSUBA (ultima sessão) --
 こちらに　Aqui/dessa direção
 どころで　Falando nisso (?)
 そうだ　Isso mesmo (?)
@@ -180,3 +181,24 @@
 何年生　なんねんせい What grade (in school)​
 好き すき Gostar/amar
 いいか Escuta
+知る　しる　Saber
+ついて行く　Seguir
+着く　つく Chegar
+だめ　Não pode
+あげる　Dar
+もの　Coisa
+良い・いい（？） Boa
+呼ぶ Chamar
+言う　Falar
+悪い　わるい　Ruim
+幼児　ようじ　Coisas para fazer
+思い出す　おもいだす Lembrar
+あっち Naquela direção
+どうした　O que foi/Qual o problema?
+たすける　Ajudar
+何で なんで Por nada/nada (?)
+捕まえる　つかまえる Pegar
+遣っ付ける　やっつける Atacar
+引っ越す ひっこす Mudar de casa
+連れて　つれて Trazer
+末っ子　すえっこ Criança mais nova
