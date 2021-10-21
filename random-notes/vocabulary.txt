@@ -157,8 +157,6 @@
 明日　みょうにち　Amanhã (bem formal)
 務める　つとめる　Servir/ter um trabalho
 道　みち　Rua
-
--- YOTSUBA (ultima sessão) --
 こちらに　Aqui/dessa direção
 ところで　Falando nisso
 そうだ　Isso mesmo
@@ -202,3 +200,25 @@
 引っ越す ひっこす Mudar de casa
 連れて　つれて Trazer
 末っ子　すえっこ Criança mais nova
+とにかく　Anyway/Just
+付ける　つける　Attach, apply, put
+肉　にく　Carne
+灰皿　はいざら　Ashtray
+少し　すこし Um pouco
+初めめ　はじめ　Primeiro, começo (em termos de passagem de tempo)
+鳥　とり Pássaro
+女の子　おんあのこ Garota
+歌　うた　Música
+おばさん　Tia
+ねくろい　Gravata
+引く　ひく Puxar
+夕方　ゆうがた Evening
+会う　あう Conhecer
+出す　だす Levar fora
+入れる いれる　Colocar dentro
+買い物　かいもの　Shopping, purchase
+八百屋　やおや　Greengrocery, vegetable shop
+宿題　しゅくだい　Tarefa de casa
+
+
+-- YOTSUBA (ultima sessão) --

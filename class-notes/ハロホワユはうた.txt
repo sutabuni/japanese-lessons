@@ -45,8 +45,6 @@
 「心」　こころ　Coração
 「生き」　いき　Viver
 「人間」　にんげん　Humano
-
--- NOVOS --
 「来」 く（る）　Verbo para "vir"
 「開」 あけ（る） Verbo para "abrir"
 「呟」　呟いた Verbo para "murmurar"
@@ -59,3 +57,12 @@
 「聞」　きく Verbo para　"escutar/perguntar"
 「ある」　Verbo para se referir à um objeto que existe "existir"
 「話す」　はなす Verbo para "falar/conversar"
+
+-- NOVOS -
+「小さい」　ちいさい　Pequeno (adjetivo)
+「一人」　ひとり Uma pessoa (Nesse caso, sozinho ou "unica pessoa (?)")
+「怖い」 こわい　Medonho (adjetivo)
+「苦しい」　くるしい　Doloroso (adjetivo)
+「聞」　きく Ouvir (verbo)
+「幸せ」　しあわせ　Felicidade, boa fortuna, sorte (adjetivo)
+「良い」　よい　Bom (adjetivo)

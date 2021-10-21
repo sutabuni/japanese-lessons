@@ -1,0 +1,17 @@
+呟く: Murmurar
+過る: Passar
+笑: Rir
+会: Encontrar
+開: Abrir (uma porta, etc)
+言: Falar
+
+-- NOVOS -
+「小さい」　ちいさい　Pequeno (adjetivo)
+「一人」　ひとり Uma pessoa (Nesse caso, sozinho ou "unica pessoa (?)")
+「怖い」 こわい　Medonho (adjetivo)
+「苦しい」　くるしい　Doloroso (adjetivo)
+「聞」　きく Ouvir (verbo)
+「幸せ」　しあわせ　Felicidade, boa fortuna, sorte (adjetivo)
+「良い」　よい　Bom (adjetivo)
+
+E tambem 宿題十・二!
