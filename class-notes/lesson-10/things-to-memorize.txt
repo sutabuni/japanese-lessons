@@ -4,6 +4,7 @@
 会: Encontrar
 開: Abrir (uma porta, etc)
 言: Falar
+-- ANOTADOS --
 
 -- NOVOS -
 「小さい」　ちいさい　Pequeno (adjetivo)
