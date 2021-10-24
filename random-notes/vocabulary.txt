@@ -155,7 +155,7 @@
 鉛筆　えんぴつ　Lapis
 外国　がいこく Foreign country
 明日　みょうにち　Amanhã (bem formal)
-務める　つとめる　Servir/ter um trabalho
+勤める　つとめる　Servir/ter um trabalho
 道　みち　Rua
 こちらに　Aqui/dessa direção
 ところで　Falando nisso
@@ -219,6 +219,61 @@
 買い物　かいもの　Shopping, purchase
 八百屋　やおや　Greengrocery, vegetable shop
 宿題　しゅくだい　Tarefa de casa
+うるさい　Irritante
+閉める　しめる　Fechar
+広い　ひろい　Grande
+あと　After
+見せる　みせる　Mostrar
+買い物　かいもの　Shopping
+次　つぎ　Próximo
+持つ　もつ　Have
+お見もの　おみもの　Bebida
+いくつ　How old?
+切る　きる　Cut
+赤　あか　Vermelho
+一昨日　おととい　Dia antes de ontém
+多い　おおい Many
+背広　せびろ　Business suit
+入口　いりぐち　Entrance
+いもつ　Baggage
+たつ　Start or leave
+強い　つよい　Strong
+売る　うる　Vender
+今朝　けさ This morning
+夜 よ Noite
+隣　となり　Visinho/Next door
+また Again
+頼む　たのむ Pedir
+暇　ひま Tempo Livre
+入る　はいる Entrar
+眼鏡　めがね　Oculos
+来月　らいげつ　Next month
+どうぞ　Please
+ハンかチ　Handkercheif
+これ　Isto
+上る　のぼる　Subir/Ir para cima
+角　かど　Canto
+鍵　かぎ Chave
+今月　こんげつ　This month
+古い　ふるい Velho
+来年　らいねん Ano que vem
+用か　ようか Oitavo dia do mês
+年　とし　Ano
+そっち Ali (colloquial)
+汚い　きたない Sujo
+結構　けっこう　Quite,reasonably,fairly,tolerably
+暗い　くらい Escuro, gloomy
+七日　なのか　Dia 7 do mês
+秋　あき Outono
+
 
 
 -- YOTSUBA (ultima sessão) --
+鍵　かぎ　Chave/Fechadura
+壊れる　こわれる　Estar quebrado/quebrar
+なんとか Alguma coisa
+なにそれ O que?/Como assim?
+ちゃんと Properly?
+覚える　おぼえる Para lembrar/memorizar
+言う　いう Também pode ser "chamado" de "sou chamada x"
+おす　Apertar

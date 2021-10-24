@@ -1,10 +1,10 @@
-呟く: Murmurar
+-- ANOTADOS --
+呟く つぶやく: Murmurar
 過る: Passar
 笑: Rir
 会: Encontrar
 開: Abrir (uma porta, etc)
 言: Falar
--- ANOTADOS --
 
 -- NOVOS -
 「小さい」　ちいさい　Pequeno (adjetivo)
