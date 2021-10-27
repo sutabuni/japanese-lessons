@@ -1,0 +1,13 @@
+-- ANOTAR --
+冷（つめ）たい: Gelado
+彼女（かのじょ）: Moça
+壊（こわ）す: Quebrar
+箱（はこ）: Caixa
+静（しず）か: Quieto
+綺麗（きれい）:　Bonito/Limpo
+有名（ゆうめい）: Famoso
+元気（げんき）: Energia Positiva (bem estar, etc)
+熱（あつ）い: Quente (temperatura do ar, tipo calor)
+暖（あたた）かい: Quente
+
+-- ANOTADOS --
