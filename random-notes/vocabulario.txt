@@ -289,10 +289,12 @@
 
 -- YOTSUBA (ultima sessão) --
 鍵　かぎ　Chave/Fechadura
-壊れる　こわれる　Estar quebrado/quebrar
-なんとか Alguma coisa
-なにそれ O que?/Como assim?
-ちゃんと Properly?
-覚える　おぼえる Para lembrar/memorizar
-言う　いう Também pode ser "chamado" de "sou chamada x"
+壊れる　こわれる　Estar quebrado
+壊す　こわす Quebrar
+なんとか Alguma coisa/De alguma maneira
+なんとかする　Expressão: fazer alguma coisa sobre isso/dar um jeito
+なにそれ Que isso?
+ちゃんと Properly (direitinho)
+覚える　おぼえる Para lembrar/aprender
+言う　いう Me chamo (forma bem formal)
 おす　Apertar
