@@ -266,6 +266,26 @@
 七日　なのか　Dia 7 do mês
 秋　あき Outono
 どんな Que tipo de
+五日　いつか　5 dias
+ゆっくり　Lentamente
+ズボン Calças
+レストラン Restaurante
+よっか　Dia 4
+国　くに　País
+だんだん　Little by little (pouco por pouco)
+手紙　てがみ　Carta
+魚　さかな　Peixe
+疲れる　つかれる　Se cansar
+どう Como/O que
+旅行　りょこう Viajar
+四　し　Quatro (origem chinesa)
+七つ　ななつ　Sete coisas
+いつも　Sempre
+食べ物　たべもの　Comida
+色　いろ Cor
+毎晩　まいばん Every night
+午前　ごぜん　Manhã
+一昨日　いっさくじつ O dia antes de ontem (formal)
 
 -- YOTSUBA (ultima sessão) --
 鍵　かぎ　Chave/Fechadura
