@@ -10,6 +10,10 @@ O último verbo quando for falar multiplos é colocar o último como ます.
 Ichidan:
 える/いる -> (tirar o る) -> て
 
+Excessão:
+着る -> きて (vestir)
+切る -> きって (cortar)
+
 Godan:
 É mais complicado, tem várias maneiras de conjulgar:
 う・つ・る -> って
@@ -18,15 +22,14 @@ Godan:
 ぐ　-> いで
 す　-> して
 
+Exemplos:
 喋る　-> しゃべって
 走る　-> はしって
-知る -> 知って (saber)
+知る -> しって (saber)
 帰る -> かえって (retornar)
-行く　-> 行って
 
-A EXCESSÃO MAIS BIZARRA:
-着る -> きて (vestir)
-切る -> きって (cortar)
+Excessão:
+行く　-> 行って
 
 Outro Uso (de muitos)
 ~てください
@@ -36,7 +39,7 @@ Verbos para lembrar
 泳ぐ　およぐ (nadar)
 待つ　まつ　(esperar)
 呼ぶ　よぶ (chamar)
-取る 
+取る とる　(pick up)
 読む よむ (ler)
 やる (fazer)
 持つ　もつ　(segurar)

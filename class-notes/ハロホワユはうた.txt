@@ -57,8 +57,6 @@
 「聞」　きく Verbo para　"escutar/perguntar"
 「ある」　Verbo para se referir à um objeto que existe "existir"
 「話す」　はなす Verbo para "falar/conversar"
-
--- NOVOS -
 「小さい」　ちいさい　Pequeno (adjetivo)
 「一人」　ひとり Uma pessoa (Nesse caso, sozinho ou "unica pessoa (?)")
 「怖い」 こわい　Medonho (adjetivo)
@@ -66,3 +64,15 @@
 「聞」　きく Ouvir (verbo)
 「幸せ」　しあわせ　Felicidade, boa fortuna, sorte (adjetivo)
 「良い」　よい　Bom (adjetivo)
+
+-- NOVOS --
+「巻いて」　まいて　Forma て do verbo "to wind"
+「言って」　いって　Forma て do verbo "falar"
+「自分」　じぶん Eu mesmo(a)/self
+「気が付いてますか」　Vem do verbo きがつく, nessa conjulgação deve significar algo tipo "Percebeu?"
+何故気に*して*しまうのですか é o して de する? não tenho certeza
+
+Anotações extras:
+- Eu anotei o que eu senti que entendi até um certo ponto do que eu vi anteriormente de vocabulário e particulas. 
+- Eu provavelmente deixei passar algumas não de propósito, mas eu deixei várias passarem de propósito porque sem entender a frase eu não me sinto confortável em anotar em verde por não ter certeza se é a mesma palavra ou se a particula está sendo usada da maneira que eu espero.
+- Eu deixei passar várias particulas porque tinham duas particulas seguidas e eu não entendo ainda o que isso significa.

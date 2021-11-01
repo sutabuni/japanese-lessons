@@ -286,6 +286,29 @@
 毎晩　まいばん Every night
 午前　ごぜん　Manhã
 一昨日　いっさくじつ O dia antes de ontem (formal)
+文章　ぶんしょう　Frase/escrita
+及ぶ　およぶ　Nadar
+消す　けす　Desligar
+こっち　Here
+右　みぎ　Direita
+寄る　よる　Noite (do por do sol até o sol nascer)
+乗る　のる　Ride, take
+誰　だれ　Quem
+大学　だいがく　Universidade
+いる Existir
+誰か　だれか　Alguém
+なる　Virar/se tornar
+五つ　いつつ　5 coisas
+出かける　でかける　Go out/leave home
+悪い　わるい　Ruim
+冬　ふゆ　Inverno
+お腹　おなか　Estomago
+昨夜　ゆうべ　Última noite
+晴れる　はれる　Sunny
+咲く　さく　Bloom, blossom
+並べる　ならべる　Line up, arrange
+薬　くすり　Remédio/droga
+月曜日　げつようび　Segunda
 
 -- YOTSUBA (ultima sessão) --
 鍵　かぎ　Chave/Fechadura
