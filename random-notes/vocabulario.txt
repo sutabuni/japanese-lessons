@@ -309,8 +309,10 @@
 並べる　ならべる　Line up, arrange
 薬　くすり　Remédio/droga
 月曜日　げつようび　Segunda
-
--- YOTSUBA (ultima sessão) --
+大勢　おおぜい　A lot of (people)
+忙しい　いそがしい　Ocupado
+戸　と　Porta
+例　れい　Zero
 鍵　かぎ　Chave/Fechadura
 壊れる　こわれる　Estar quebrado
 壊す　こわす Quebrar
@@ -321,3 +323,5 @@
 覚える　おぼえる Para lembrar/aprender
 言う　いう Me chamo (forma bem formal)
 おす　Apertar
+
+-- YOTSUBA (ULTIMA SESSAO) --

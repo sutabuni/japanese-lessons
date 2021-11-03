@@ -1,8 +1,7 @@
 Fazendo (doing) do Japonês é igual gerúndio
 
 Basicamente funciona igual o português e inglês:
-Fa(zer): する
-Fa(ço): します
+Fa(zer): す(る) conjulga em し (ます, etc)
 Ai, adicionando o ～ている (que é basicamente o "ndo"), fica:
 Faze(ndo): しっています
 ps: ～てある seria o correto quando o sujeito da ação é um objeto.
