@@ -1,20 +1,26 @@
-Excessões do て:
-行く
+1 - Revisões
+a) Como funcionam adjeitos な em todas suas conjulgações, e como conectar com o próximo adjetivo? (perguntar sobre o na depois)
+b) O que é あまり? Ele tem uma caracteristica especial, qual é ela?
+c) O que você usa depois de て para falar por favor? E o que você usa para pedir ajuda?
+d) Lembrar: o に serve mais para um "na" e etc, enquanto o を seria mais um "a (coisa)". Exemplo: Eu moro NA (に) casa. Versus: Eu moro a (を) casa. O segundo não faz muito sentido.
+
+2 - Excessões do て:
 着る
 切る
 くる/する:
 
-たかい: Alto, também pode ser usado para preço
-ひろい: Amplo
-大きい: Grande
+3 - Vocabulário
+たかい
+ひろい
+大きい
+いつ
+いつも
+週末
+月末
+どち
+どれ
 
-Outro Uso (de muitos)
-~てください
-~ていただはませんか
-
-A particula で tem o conceito de "ferramenta", tipo o que você usa para fazer uma ação.
-Ele vem depois da ferramenta usada para fazer a coisa.
-
+4 - Verbos
 Verbos para lembrar
 泳ぐ　およぐ (nadar)
 待つ　まつ　(esperar)
@@ -26,16 +32,17 @@ Verbos para lembrar
 分かる　わかる (entender)
 教える　おしえる (ensinar, mostrar)
 服 ふく (roupa)
-着（き）て (vestir)
-昼（ひる）ごはん (almoço)
+着　き（る） (vestir)
+昼　ひる（ごはん） (almoço)
 動　どう (movimento)
 画　が　(imagem)
 寝（ね）る (dormir)
 
+5 - Kanjis
 Kanjis:
 電　でん　Kanji de eletricidade (importante):
 電気　Energia elétrica
-消す　Apagar
+消　け（す）　=　Apagar
 住む　すむ Morar
 知る　しる　Conhecer (geralmente é usado na forma て)
 大学　だいがく　Faculdade
@@ -44,3 +51,19 @@ Kanjis:
 はさみ Tezoura
 遊ぶ　あそぶ　Brincar/Jogar/usos do tipo (tipo play do inglês)
 キッチン　・　台所　だいどころ Cozinha
+
+---
+
+3:
+たかい: Alto, também pode ser usado para preço
+ひろい: Amplo
+大きい: Grande
+いつ: Nunca
+いつも: Sempre
+どち Qual (2 objetos)
+どれ Qual (3+ objetos)
+
+1:
+c)
+~てください para por favor, e
+~ていただけませんか para pedir ajuda.

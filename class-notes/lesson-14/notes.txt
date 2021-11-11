@@ -28,7 +28,7 @@ Como expressar proibição (algo não pode ser feito):
 いけません　vai estar solto a maior parte do tempo.
 
 --- Vocabulário
-たばこ: Cicarro
+タバコ: Cicarro
 数　すう: Fumar
 座る　すわる: Sentar
 隣　となり: O significado principal é "do lado"

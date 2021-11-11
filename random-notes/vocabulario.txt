@@ -323,5 +323,24 @@
 覚える　おぼえる Para lembrar/aprender
 言う　いう Me chamo (forma bem formal)
 おす　Apertar
+下手　へた Não habilidoso(a), não bom(a) em algo
+洗う　あらう　Lavar
+短い　みじかい　Curto
+掛かる　かかる　Hang
+どちら　Qual　(de duas alternativas)/Que direção
+カップ　Copo
+覚える　おぼえる　Memorizar
+スリッパ Slippers
+脱ぐ　ぬぐ　Take off (clothes)
+電話　でんわ　Telefone/Ligação
+留学生　りゅうがくせい　Student Studying Abroad
+西　にし　West, western
+体　からだ　Corpo
+開く　あく　Abrir
+お母さん　おかあさん Mãe
+なぜ　Por que?
+一番　いちばん　Most, best
+答える　こたえる　Responder
+先生　せんせい　Professor
 
 -- YOTSUBA (ULTIMA SESSAO) --

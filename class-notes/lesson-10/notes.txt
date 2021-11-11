@@ -32,10 +32,10 @@ Passado Negativo: くなかった（です）
 
 Uma excessão:
 良い: Bom (genérico)
-Presente: いい
-Passado: よかった
-Presente Negativo: よくない
-Passado Negativo: よくなかった
+Presente: い
+Passado: かった
+Presente Negativo: くない
+Passado Negativo: くなかった
 
 O な é mais simples, porque é só você colocar です no lugar do な.
 Presente: です
